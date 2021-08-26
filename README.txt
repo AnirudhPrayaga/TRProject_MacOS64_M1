@@ -9,7 +9,7 @@ and/or installing the chromedriver according to your current chrome browser vers
 
 ```
 git clone https://github.com/AnirudhPrayaga/TRProject_MacOS64_M1.git
-cd TRProject
+cd TRProject_MacOS64_M1
 mvn clean test
 ```
 
